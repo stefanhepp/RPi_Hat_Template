@@ -1,0 +1,18 @@
+# Ignore KiCAD backups
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.lck
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+\#auto_saved_files#
+*.lck
